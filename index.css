@@ -1,0 +1,22 @@
+body{
+    align-items: center;
+    text-align: center;
+    background-image:url('https://pimg.fabhotels.com/propertyimages/398/images/photos-fabhotel-world-link-i-agra-Hotels_1655098295027.jpg:cf-webp');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+/* Change Font Size and Color Here */
+form,table{
+    text-align: left;       
+    font-size: 24;                      /font size/
+    font-weight: bold;                  /Bold font/
+    color:White;                /font color/
+}
+.child {
+margin: 0 auto;
+}
+H1
+{
+ color:Brown;
+}
